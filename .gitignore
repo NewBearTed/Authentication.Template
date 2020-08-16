@@ -3,3 +3,6 @@
 ################################################################################
 
 /src/MVC/Authentication.Project/.vs/Authentication.Project
+/src/MVC/Authentication.Project/Authentication.Project/bin/Debug/netcoreapp3.1
+/src/MVC/Authentication.Project/Authentication.Project/obj/Debug/netcoreapp3.1
+/src/MVC/Authentication.Project/Authentication.Project/obj

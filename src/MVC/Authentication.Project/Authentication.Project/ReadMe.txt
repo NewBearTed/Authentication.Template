@@ -4,5 +4,7 @@
 
 --------- E-mail confirm -----------
 	Obs:https://sendgrid.com/
-1-	dotnet user-secrets set SendGridUser RickAndMSFT
+1-	dotnet user-secrets set SendGridUser NoReply
 2-	dotnet user-secrets set SendGridKey <key>
+3-	Scaffold Account/RegisterConfirmation
+	DisplayConfirmAccountLink = false;

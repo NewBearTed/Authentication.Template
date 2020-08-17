@@ -13,3 +13,8 @@
 1-	Install-Package Microsoft.AspNetCore.Authentication.Facebook -Version 3.1.7
 2-	dotnet user-secrets set "Authentication__Facebook__AppId" "<app-id>"
 3-	dotnet user-secrets set "Authentication__Facebook__AppSecret" "<app-secret>"
+
+-------------- Google Authentication -----------------
+1-	Install-Package Microsoft.AspNetCore.Authentication.Google -Version 3.1.7
+2-	dotnet user-secrets set "Authentication:Google:ClientId" "<client-id>"
+3-	dotnet user-secrets set "Authentication:Google:ClientSecret" "<client-secret>"
